@@ -1,11 +1,4 @@
----
-title: VPS推荐
-date: 2016-09-11 19:50:48
-categories: GFW Break
-tags: [Geek, VPS]
----
-
-　　Break  GFW时，大家都应该熟悉GoAgent，除此，再就是购买月费或年费的VPN，前者虽然免费但使用人数众多且网速极为不稳定，后者花费些金钱虽然可以获得较为稳定的网络，但随着VPN卖家的用户越来越多，他们也对用户有着一定限制，例如不能下载、不能看1080P，而且多数时候还得要求你家里、宿舍、公司网速在50M以上的带宽才能有比较不错的体验，手机3G、4G有时也连接不稳定，所以当下公用的GFW Breaker都有不少的局限性。
+　　Break GFW时，大家都应该熟悉GoAgent，除此，再就是购买月费或年费的VPN，前者虽然免费但使用人数众多且网速极为不稳定，后者花费些金钱虽然可以获得较为稳定的网络，但随着VPN卖家的用户越来越多，他们也对用户有着一定限制，例如不能下载、不能看1080P，而且多数时候还得要求你家里、宿舍、公司网速在50M以上的带宽才能有比较不错的体验，手机3G、4G有时也连接不稳定，所以当下公用的GFW Breaker都有不少的局限性。
 
 　　虽然VPS的主要目的并不是用于搭建VPN，不过在谈VPS前，Captain还是有必要推荐一些不错的公用VPN。
 　　首先，免费的Breaker有倒是有，对于仅要求查查资料的你来说应该也是足够了。如若仅仅是番墙浏览网站而已，免费首选2016年6月份之前的[Lantern](https://program-pocket.oss-cn-hongkong.aliyuncs.com/GFW-Breaker/lantern.exe)，同Shadowsocks一样不支持ping和下载被墙网站的文件；其次是[赛风](http://www.psiphon3.net/zh/index.html)；再就是日本筑波大学协同其他各国大学搭建的Free VPN平台——[VPNGate](http://www.vpngate.net/)，只建议科研工作者使用，忘图利者良知发现，不要占用科研的资源来Download各种东西，最后的，也是同Lantern一样较为快捷的番墙方法——[修改hosts文件](https://serve.netsh.org/pub/ipv4-hosts/)，虽可以访问Google、Twitter，但是有些网站依然是无法访问的。
