@@ -21,7 +21,7 @@
 
 1. [`星光互联 · STARRY`](https://www.starrydns.com)  https://www.starrydns.com  
 
-   机房：香港沙田和Mega-I数据中心、美国、加拿大、日本、韩国
+   机房：香港沙田和Mega-I数据中心、美国、加拿大、日本、韩国  
    价格：OpenVZ **￥60**/month 起 ，KVM**￥75**/month 起  
    配置：1CPU、512MB Memory、20GB Storage、1 IP、10Mbps、200/180GB Data 起  
    测试IP：118.193.144.3（沙田）、210.92.18.1（韩国）、103.204.175.10（日本）  
