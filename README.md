@@ -25,7 +25,7 @@
    价格：OpenVZ **￥60**/month 起 ，KVM**￥75**/month 起  
    配置：1CPU、512MB Memory、20GB Storage、1 IP、10Mbps、200/180GB Data 起  
    测试IP：118.193.144.3（沙田）、210.92.18.1（韩国）、103.204.175.10（日本）  
-   测试文件：http://jp2.lg.starrydns.com/100MB.test （103.204.175.10 日本）  
+   测试文件：http://jp2.lg.starrydns.com/100MB.test （103.204.175.10 日本），沙田和韩国无测试文件
 
    评价：带宽足，香港机房最高的带宽就是10Mbps；沙田CN2直连大陆电信，STARRY专门对大陆线路进行优化，在亚洲区域内路由，不会转到欧美；华南地区访问VPS类似于省内的访问速度；最低价产品常常Out of Stock；
 
