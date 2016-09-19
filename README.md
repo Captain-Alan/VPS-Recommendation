@@ -6,12 +6,12 @@
 
 ### 最壕最好用最稳定
 
-　　***最壕最好用最稳定</u>***的VPS供应商：[www.rackspace.com](www.rackspace.com)，`rackspace`是面向企业的云计算提供商。
+　　***<u>最壕最好用最稳定</u>***的VPS供应商：[www.rackspace.com](http://www.rackspace.com)，`rackspace`是面向企业的云计算提供商。
 
 价格：  
 管理费：**$50**/month  
-配置费：**$33**/month起  
-按流量收费：**$0.2**/GB起  
+配置费：**$33**/month 起  
+按流量收费：**$0.2**/GB 起  
 
 评价：最壕最好用最稳定，即便是同一个机房，别人家的会宕机，而这家是不会的，且有数据备份，属于`Managed Host`，一个月下来，对于游戏玩家，用得稍微少点一个月开支也得过**100美元**，之前在一个讨论区见人账单月开销**$300**。
 
@@ -19,23 +19,33 @@
 
 　　除最壕VPS外，再从最速度方面列举出合适的VPS供应商，说到speed，对于中国用户肯定就属香港台湾日本三地最快了，当然，大体速度排序依然是上面所说的，为了给下面的VPS介绍留些余地，同时又满足性价比，所以这一小节只列举HK最优秀的VPS，并给出各自最便宜价格。
 
-1.  [`UFOVPS`](https://www.ufovps.com)  https://www.ufovps.com  沙田机房电信CN2直连线路  最便宜￥59/month 300G流量  3Mbps带宽，速度极佳，Captain在广东地区ping值在25ms左右，时常达到18ms 20ms，不过带宽只有3Mbps，另外，其美国机房最便宜**￥35**/month 供君参考；『*高速优选 且稍贵  资金稍够推荐作为主力VPS*』
+1. [`星光互联 · STARRY`](https://www.starrydns.com)  https://www.starrydns.com  
 
-2.  [`8云`](http://www.8xen.com/)  http://www.8xen.com/  **￥29**/month起步，Captain所见最便宜的香港CN2节点之一，有两款入门型号可选，一个2Mbps只有50GB流量，另一个是1Mbps无流量限制，建议南方的孩子或者对流量需求不多的孩子选择第二个，带宽对你们的速度体验影响较小，而北方的而且没有太多流量要求的鞋子们选择第一个；
+   机房：香港沙田和Mega-I数据中心、美国、加拿大、日本、韩国
+   价格：OpenVZ **￥60**/month 起 ，KVM**￥75**/month 起  
+   配置：1CPU、512MB Memory、20GB Storage、1 IP、10Mbps、200/180GB Data 起  
+   测试IP：118.193.144.3（沙田）、210.92.18.1（韩国）、103.204.175.10（日本）  
+   测试文件：http://jp2.lg.starrydns.com/100MB.test （103.204.175.10 日本）  
 
-3.  [`新世界`](http://vpssj.net/)  http://vpssj.net/  最便宜**￥79**/month  不限流量；『*贵且高速*』
+   评价：带宽足，香港机房最高的带宽就是10Mbps；沙田CN2直连大陆电信，STARRY专门对大陆线路进行优化，在亚洲区域内路由，不会转到欧美；华南地区访问VPS类似于省内的访问速度；最低价产品常常Out of Stock；
 
-4.  [`阿里云香港B区`](https://ecs-buy.aliyun.com/)  https://ecs-buy.aliyun.com/ 仿AWS的弹性云服务器 **￥1**/GB  **￥0.30**/小时  据说是『*流量计费*』的最好选择，反正我不用~；
+2. [`UFOVPS`](https://www.ufovps.com)  https://www.ufovps.com  沙田机房电信CN2直连线路  最便宜￥59/month 300G流量  3Mbps带宽，速度极佳，Captain在广东地区ping值在25ms左右，时常达到18ms 20ms，不过带宽只有3Mbps，另外，其美国机房最便宜**￥35**/month 供君参考；『*高速优选 且稍贵  资金稍够推荐作为主力VPS*』
 
-5.  [`HostUS`](https://my.hostus.us/cart.php?a=confproduct&i=6) 直达链接  https://my.hostus.us/cart.php?a=confproduct&i=6  最便宜**$25**/Yr（约**167元**）  月流量500G；『*略慢且便宜 性价比最高 满足绝大多数情况使用*』
+3. [`8云`](http://www.8xen.com/)  http://www.8xen.com/  **￥29**/month起步，Captain所见最便宜的香港CN2节点之一，有两款入门型号可选，一个2Mbps只有50GB流量，另一个是1Mbps无流量限制，建议南方的孩子或者对流量需求不多的孩子选择第二个，带宽对你们的速度体验影响较小，而北方的而且没有太多流量要求的鞋子们选择第一个；
 
-6.  [`HostHatch`](https://hosthatch.com/)  https://hosthatch.com/  **$30**/Yr起（约**200元**）或 **2.67美元**/month；『*较快且便宜 性价比高*』
+4. [`新世界`](http://vpssj.net/)  http://vpssj.net/  最便宜**￥79**/month  不限流量；『*贵且高速*』
 
-7.  [`枫叶主机`]( https://www.fyzhuji.com)  https://www.fyzhuji.com  CN2线路  VPS最低**￥60**/month，虚拟主机挂网站10G流量**￥60**/Yr，也提供国内外中转的Shadowsocks **￥150**/Yr 全国范围的速度都是极快的；『*高速优选  挂博客首选  对中国线路优化极好  甚至有俄罗斯主机*』
+5. [`阿里云香港B区`](https://ecs-buy.aliyun.com/)  https://ecs-buy.aliyun.com/ 仿AWS的弹性云服务器 **￥1**/GB  **￥0.30**/小时  据说是『*流量计费*』的最好选择，反正我不用~；
 
-8.  [`GigsGigsCloud`](http://www.gigsgigscloud.com/)  http://www.gigsgigscloud.com/  最低**$6**/month（约￥40）拥有香港和马来西亚机房，Captain在广东的香港机房的ping值在30ms所有，甚至有达到时18ms；『*高速优选 性价比高*』
+6. [`HostUS`](https://my.hostus.us/cart.php?a=confproduct&i=6) 直达链接  https://my.hostus.us/cart.php?a=confproduct&i=6  最便宜**$25**/Yr（约**167元**）  月流量500G；『*略慢且便宜 性价比最高 满足绝大多数情况使用*』
 
-9.  [`莲花VPS · LotuServer`](http://www.lotuserver.com/)  http://www.lotuserver.com/  沙田机房  **￥99+10**/Yr起步 1G硬盘 500G流量；『*高速优选 性价比高 硬盘小 不适合架大型网站*　架小博客没问题』
+7. [`HostHatch`](https://hosthatch.com/)  https://hosthatch.com/  **$30**/Yr起（约**200元**）或 **2.67美元**/month；『*较快且便宜 性价比高*』
+
+8. [`枫叶主机`]( https://www.fyzhuji.com)  https://www.fyzhuji.com  CN2线路  VPS最低**￥60**/month，虚拟主机挂网站10G流量**￥60**/Yr，也提供国内外中转的Shadowsocks **￥150**/Yr 全国范围的速度都是极快的；『*高速优选  挂博客首选  对中国线路优化极好  甚至有俄罗斯主机*』
+
+9. [`GigsGigsCloud`](http://www.gigsgigscloud.com/)  http://www.gigsgigscloud.com/  最低**$6**/month（约￥40）拥有香港和马来西亚机房，Captain在广东的香港机房的ping值在30ms所有，甚至有达到时18ms；『*高速优选 性价比高*』
+
+10. [`莲花VPS · LotuServer`](http://www.lotuserver.com/)  http://www.lotuserver.com/  沙田机房  **￥99+10**/Yr起步 1G硬盘 500G流量；『*高速优选 性价比高 硬盘小 不适合架大型网站*　架小博客没问题』
 
 
 ### 最实惠
