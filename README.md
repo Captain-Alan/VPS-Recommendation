@@ -101,7 +101,7 @@
 
 4.  [`RamNode`](https://clientarea.ramnode.com)  OpenVZ最廉价的主机年费为**$15**（约**￥100**），机房均在美国，推荐选购西雅图机房，网络速度同搬瓦工不相上下；『***￥100***』
 
-5.  [`HostUS`](https://my.hostus.us/cart.php?a=confproduct&i=6)  HK Singapore Sydney http://www.hostus.cn/go/hostus-hk-256s  
+5.  [`HostUS`](http://www.hostus.cn/go/hostus-hk-256s)  HK Singapore Sydney http://www.hostus.cn/go/hostus-hk-256s  
 
     价格：OpenVZ架构 最便宜**$25**/Yr（约**166元**）三地可选，USA Atlanta **18.95美元**/Yr（约**￥126**）  
     配置：1vCPU，256MB Memory，10GB SSD，500GB Bandwidth 起  
@@ -112,7 +112,7 @@
 
 
 
-6.  [`HostHatch`](https://hosthatch.com/)  https://hosthatch.com/  
+6.  [`HostHatch`](https://hosthatch.com/)    
 
     机房：IBM旗下的Softlayer香港机房以及美国等地  
     价格：OpenVZ架构**$30**/Yr起（约**200元**）或 **2.67美元**/month  起  
