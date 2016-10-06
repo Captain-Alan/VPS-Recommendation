@@ -57,7 +57,7 @@
    配置：HK 1CPU、30/10GB Storage，500GB Bandwidth，5/50Mbps，1/0.5GB Memory，前者为沙田CN2线路  
    测试IP：118.193.244.200（沙田）、103.219.192.60（新立讯）、103.219.193.70（LA）、103.219.194.70（LA CN2）、195.43.95.250（Russia）
 
-   测试文件：http://118.193.244.200/100MB.test(沙田)、http://103.219.192.60/100MB.test（新立讯）、http://103.219.194.70/100MB.test（LA CN2）
+   测试文件：http://118.193.244.200/100MB.test （沙田）、http://103.219.192.60/100MB.test （新立讯）、http://103.219.194.70/100MB.test （LA CN2）
 
    评价：新厂家，不支持D(DOS)防御；CN2线路为5Mbps，不过最值得推荐的不是这家的VPS，而是虚拟主机和Shadowsocks，虚拟主机挂网站10G流量**￥60**/Yr起，也提供国内外中转的Shadowsocks **￥40**/Yr起，全国范围的速度都是极快的。『*挂博客首选，对中国线路优化极好，甚至有俄罗斯主机  ★★★★☆*』
 
@@ -68,7 +68,7 @@
    配置：**$6**方案  1CPU、512MB、10GB Storage、1TB Bandwidth  
    测试IP：43.251.156.10（HK）、 210.1.226.1（MY）
 
-   测试文件：http://www.gigsgigscloud.com/download/test.zip（HK）
+   测试文件：http://www.gigsgigscloud.com/download/test.zip （HK）
 
    评价：Cloudlet B对没有对中国线路进行优化，时常会绕远到日本，甚至绕道美国，故推荐选购有优化的Cloudlet C；很多人都说C方案是10Mbps，但其官网并未提及带宽，原来官网写着10Mbps，但很多用户使用说达不到（应该是OpenVZ超额分配导致），所以现在没有写带宽了；B方案，在闲时还是比较好的，可一到高峰期便会绕道了；而且Cloudlet B是共享最大100Mbps上行带宽，理所应当慢。『*★★★★*』
 
@@ -91,9 +91,9 @@
     价格：**$5**/month（**￥33**）起  
     配置：1CPU、768Memory、1000GB Bandwidth起  
     测试IP：108.61.201.151（Tokyo）、45.32.100.168（SG）、104.156.230.107（硅谷）、108.61.219.200（LA）  
-    测试文件：http://hnd-jp-ping.vultr.com/vultr.com.100MB.bin（Tokyo）、http://sgp-ping.vultr.com/vultr.com.100MB.bin（SG）、 http://sjo-ca-us-ping.vultr.com/vultr.com.100MB.bin（硅谷）、	http://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin（LA）
+    测试文件：http://hnd-jp-ping.vultr.com/vultr.com.100MB.bin （Tokyo）、http://sgp-ping.vultr.com/vultr.com.100MB.bin （SG）、 http://sjo-ca-us-ping.vultr.com/vultr.com.100MB.bin （硅谷）、	http://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin （LA）
 
-    评价：优惠狠多、技术狠强、机房狠多。优惠政策二选其一，新用户使用链接注册可获得一定的金额（当前**20美金**，验证&follow&发布Twitter又奖励**3美元**），新用户充多少送多少（最多送**$100**，且赠送的金额只能使用12个月），老用户充值八折优惠，而且最便宜的价格和DigitalOcean一样，不过Vultr有日本的机房，速度比DO洛杉矶机房快，且流量达1T；从最普及的技术角度来谈，和DO一起作为最智能的VPS平台，也意味着管理员参与服务器架构的程度度很低；机房遍布亚欧美，是分布最广泛的服务商。另外，Tokyo和新加坡的速度虽不算最快，但肯定足够稳定，甚至超越了Linode。『*推荐给资金不足的朋友  只需充**5美元**即可用半年★★★★☆*』
+    评价：优惠狠多、技术狠强、机房狠多。优惠政策二选其一，新用户使用链接注册可获得一定的金额（当前**20美金**，验证&follow&发布Twitter又奖励**3美元**），新用户[充多少送多少](https://www.vultr.com/match/)（最多送**$100**，且赠送的金额只能使用12个月），老用户充值八折优惠，而且最便宜的价格和DigitalOcean一样，不过Vultr有日本的机房，速度比DO洛杉矶机房快，且流量达1T；从最普及的技术角度来谈，和DO一起作为最智能的VPS平台，也意味着管理员参与服务器架构的程度度很低；机房遍布亚欧美，是分布最广泛的服务商。另外，Tokyo和新加坡的速度虽不算最快，但肯定足够稳定，甚至超越了Linode。『*推荐给资金不足的朋友  只需充**5美元**即可用半年★★★★☆*』
 
 2.  [`搬瓦工 · BandwagonHost`](https://bandwagonhost.com/)  搬瓦工本来是有很多极为便宜的VPS的（**3.99美元**/年），但是用的人多了，还怕抢不完ip么？现在最亲民的是**$19.9**/年（约**￥132**），而且搬瓦工提供ss安装；『*狠便宜的老牌  建议洛杉矶机房  4.66%优惠码：` IAMSMART50BAR1`*』
 
@@ -106,7 +106,7 @@
     价格：OpenVZ架构 最便宜**$25**/Yr（约**166元**）三地可选，USA Atlanta **18.95美元**/Yr（约**￥126**）  
     配置：1vCPU，256MB Memory，10GB SSD，500GB Bandwidth 起  
     测试IP：45.124.64.3（HK）、210.16.120.5（Singapore）、27.100.36.5（Sydney）、162.245.216.243（Atlanta）  
-    测试文件：http://hk-lg.hostus.us/100MB.test（HK）、http://sgp-lg.hostus.us/100MB.test（Singapore）、http://syd-lg.hostus.us/100MB.test（Sydney）、http://atl-lg.hostus.us/100MB.test（Atlanta）  
+    测试文件：http://hk-lg.hostus.us/100MB.test （HK）、http://sgp-lg.hostus.us/100MB.test （Singapore）、http://syd-lg.hostus.us/100MB.test （Sydney）、http://atl-lg.hostus.us/100MB.test （Atlanta）  
 
     评价：机房的连接速度不太稳定，时常会发生线路绕远的情况，但价格便宜足以吸引大量用户了，而且还支持D(DOS)防御；现在洛杉矶机房KVM VPS已开启CN2直连，而HK的CN2直连还会远么，那时HK的VPS肯定会被哄抢，那时再加颗*☆*。『*★★★★*』
 
@@ -118,7 +118,7 @@
     价格：OpenVZ架构**$30**/Yr起（约**200元**）或 **2.67美元**/month  起  
     配置：1CPU、256MB Memory、30GB SSD，1TB Bandwidth起  
     测试IP：119.81.130.170（HK）、107.181.166.4（LA）  
-    测试文件：http://speedtest.hkg02.softlayer.com/downloads/test100.zip（HK）、http://mirror.lax.hosthatch.com/100mb.bin（LA）
+    测试文件：http://speedtest.hkg02.softlayer.com/downloads/test100.zip （HK）、http://mirror.lax.hosthatch.com/100mb.bin （LA）
 
     评价：支持D(DOS)防御，速度还是很不错的，相对HostUS，HostHatch还是更稳定、更快的。『*★★★★*』
 
@@ -153,7 +153,7 @@
 
 　　接下来，给大家列出各家VPS供应商的新用户注册优惠链接，直接通过官方链接的官网注册不会送金额：
 
-1.  [`Vultr`](http://www.vultr.com/?ref=6983220-3B)  http://www.vultr.com/?ref=6983220-3B  **$20**金额，需要用户PayPal充值**5美金**或者信用卡暂存**5美金**；
+1.  [`Vultr`](http://www.vultr.com/?ref=6983220-3B)  http://www.vultr.com/?ref=6983220-3B  **$20**金额，需要用户PayPal充值**5美金**或者信用卡暂存**5美金**；https://www.vultr.com/match/ 新用户充多少送多少，最多送**100美元**，且赠送的金额使用期限为12个月；
 
 2.  [`DigitalOcean`](https://www.digitalocean.com/?refcode=4daef23f81a9)  https://www.digitalocean.com/?refcode=4daef23f81a9  **$10**金额  Github学生验证**100美金**：https://education.github.com/pack  也就是说，**学生可以免费使用近两年**；
 
