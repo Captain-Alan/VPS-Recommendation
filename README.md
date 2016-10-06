@@ -1,6 +1,6 @@
 ## VPS推荐
 
-　　VPS, 即Virtual Private Server, 虚拟私人服务器。租VPS好处就是既可以独享服务器的网络线路，又可以在服务器上搭建自己的网站，也可以通过搭建公用VPN赚点外快。
+　　VPS, 即Virtual Private Server, 虚拟私人服务器。租VPS好处就是既可以独享服务器的网络线路，又可以在服务器上搭建自己的网站，也可以通过搭建公用VPN赚点外快，同时，也可以搭建属于自己的云盘（[OwnCloud](https://github.com/owncloud/core)）。
 
 　　通过VPN、COW或Shadowsocks客户端连接VPS服务端的网速是有多种影响因素的：其一，**`机房地理位置`**，香港的肯定比台韩新日美欧要快，华南地区速度排序就是HK > TW > SG > JP > KR > US > EU；其二，**`线路`**，现在有CN2直连的线路，当然比一般线路快；其三，**`自身使用的网络供应商`**，国内不同的供应商连接不同机房的线路是不同的，番墙转的弯多少也不一样；其四，**`机房带宽`**，香港的带宽一直很小，基本都是1~10Mbps，常见的都是2Mbps或3Mbps，而台湾是100Mbps，日本带宽是Gbps为单位的，但服务器带宽大不意味着你的速度快，毕竟得遵循短板原理，本地区的互联网服务商提供的带宽不足也是会极大影响到用户体验的；其五，**`价格`**，想要好的VPS稳定的网络环境，当然$是必须的，无论是向本地区网络服务商购买网络，还是VPS购买，都是money决定了格调；其六，是否使用网络单向/双向服务器**`加速软件`**，如FinalSpeed双边加速Shadowsocks，能明显提升浏览器访问网页、看视频的效果；其七，**`无线/有线`**，无线的网络环境远差于有线，家用路由器、终端间距离、网络重叠等等都影响着无线的数据传输，例如，同为电信20Mbps，广东地区ping香港CN2线路，有线基本在6~10ms，当无线环境中只有一台终端且网络稳定时ping值为18~37ms。
 
@@ -24,10 +24,10 @@
    机房：香港沙田和Mega-I数据中心、美国、加拿大、日本、韩国  
    价格：OpenVZ **￥60**/month 起 ，KVM**￥75**/month 起  
    配置：1CPU、512MB Memory、20GB Storage、1 IP、10Mbps、200/180GB Bandwidth起  
-   测试IP：118.193.144.3（沙田）、210.92.18.1（韩国）、103.204.175.10（日本）  
-   测试文件：http://jp2.lg.starrydns.com/100MB.test （103.204.175.10 日本），沙田和韩国无测试文件
+   测试IP：118.193.144.3（沙田）、210.92.18.1（Korea）、103.204.175.10（JP）  
+   测试文件：http://jp2.lg.starrydns.com/100MB.test （103.204.175.10 JP），沙田和韩国无测试文件
 
-   评价：带宽足，香港机房最高的带宽就是10Mbps；沙田CN2直连大陆电信，STARRY专门对大陆线路进行优化，在亚洲区域内路由，不会转到欧美；华南地区访问VPS类似于省内的访问速度；最低价OpenVZ常常Out of Stock，能抢到则是极好。『*推荐电信游戏玩家购买；不支持D(DOS)防御，不推荐企业使用。综合评级：★★★★★*』
+   评价：带宽足，香港机房最高的带宽就是10Mbps；沙田CN2直连大陆电信，STARRY专门对大陆线路进行优化，在亚洲区域内路由，不会转到欧美；华南地区访问VPS类似于省内的访问速度；最低价OpenVZ常常Out of Stock，能抢到则是极好。『*推荐电信游戏玩家购买，不支持D(DOS)防御，不推荐企业使用。综合评级：★★★★★*』
 
 2. [`UFOVPS`](https://www.ufovps.com)  https://www.ufovps.com  
 
@@ -41,46 +41,90 @@
 
 3. [`8云`](http://www.8xen.com/)  http://www.8xen.com/  
 
+   机房：香港新世界CN2节点、美国加州CN2节点  
    价格：**￥29**/month起步，XEN架构  
    配置：1CPU、512MB Memory、20GB SSD，2Mbps 50GB Bandwidth/1Mbps No Limited Bandwidth起  
    测试IP：43.255.107.1  
 
-   评价：最便宜的香港CN2节点之一；带宽太小，不适合下载较大文件；建议南方的孩子或者对流量需求不多的孩子选择1Mbps，带宽对你们的网站访问体验影响较小；而北方的而且没有太多流量要求的鞋子们选择2Mbps『*★★★*』
+   评价：最便宜的香港CN2节点之一；带宽太小，不适合下载较大文件；建议南方的孩子或者对流量需求不多的孩子选择1Mbps，带宽对你们的网站访问体验影响较小；而北方的而且没有太多流量要求的鞋子们选择2Mbps。『*★★★*』
 
-4. [`阿里云香港B区`](https://ecs-buy.aliyun.com/)  https://ecs-buy.aliyun.com/ 仿AWS的弹性云服务器 **￥1**/GB  **￥0.30**/小时  据说是『*流量计费*』的最好选择，反正我不用~。『*★★★*』
+4. [`阿里云香港B区`](https://ecs-buy.aliyun.com/)  https://ecs-buy.aliyun.com/ 仿AWS的弹性云服务器 **￥1**/GB  **￥0.30**/小时  据说是『*流量计费*』的最好选择，反正我不用~『*★★★*』
 
-5. [`HostHatch`](https://hosthatch.com/)  https://hosthatch.com/  **$30**/Yr起（约**200元**）或 **2.67美元**/month；『*较快且便宜 性价比高*』
+5. [`枫叶主机`]( https://www.fyzhuji.com)  https://www.fyzhuji.com  
 
-6. [`枫叶主机`]( https://www.fyzhuji.com)  https://www.fyzhuji.com  CN2线路  VPS最低**￥60**/month，虚拟主机挂网站10G流量**￥60**/Yr，也提供国内外中转的Shadowsocks **￥150**/Yr 全国范围的速度都是极快的；『*高速优选  挂博客首选  对中国线路优化极好  甚至有俄罗斯主机*』
+   机房：香港沙田和新立讯机房，以及美国LA和俄罗斯新西伯利亚机房  
+   价格：HK KVM架构 **￥60/**month起，LA**￥25**或**45**/month起，俄罗斯**￥35**/month起  
+   配置：HK 1CPU、30/10GB Storage，500GB Bandwidth，5/50Mbps，1/0.5GB Memory，前者为沙田CN2线路  
+   测试IP：118.193.244.200（沙田）、103.219.192.60（新立讯）、103.219.193.70（LA）、103.219.194.70（LA CN2）、195.43.95.250（Russia）
 
-7. [`GigsGigsCloud`](http://www.gigsgigscloud.com/)  http://www.gigsgigscloud.com/  最低**$6**/month（约￥40）拥有香港和马来西亚机房，Captain在广东的香港机房的ping值在30ms所有，甚至有达到时18ms；『*高速优选 性价比高*』
+   测试文件：http://118.193.244.200/100MB.test(沙田)、http://103.219.192.60/100MB.test（新立讯）、http://103.219.194.70/100MB.test（LA CN2）
 
-8. [`莲花VPS · LotuServer`](http://www.lotuserver.com/)  http://www.lotuserver.com/  沙田机房  **￥99+10**/Yr起步 1G硬盘 500G流量；『*高速优选 性价比高 硬盘小 不适合架大型网站*　架小博客没问题』
+   评价：新厂家，不支持D(DOS)防御；CN2线路为5Mbps，不过最值得推荐的不是这家的VPS，而是虚拟主机和Shadowsocks，虚拟主机挂网站10G流量**￥60**/Yr起，也提供国内外中转的Shadowsocks **￥40**/Yr起，全国范围的速度都是极快的。『*挂博客首选，对中国线路优化极好，甚至有俄罗斯主机  ★★★★☆*』
+
+6. [`GigsGigsCloud`](http://www.gigsgigscloud.com/)  http://www.gigsgigscloud.com/  
+
+   机房：HGC香港和记电讯机房、马来西亚AIMS机房  
+   价格：OpenVZ架构为主 **$18**/Yr（**￥120**）起，但相比该方案，还是建议使用**6美元**/month（**￥40**）的方案  
+   配置：**$6**方案  1CPU、512MB、10GB Storage、1TB Bandwidth  
+   测试IP：43.251.156.10（HK）、 210.1.226.1（MY）
+
+   测试文件：http://www.gigsgigscloud.com/download/test.zip（HK）
+
+   评价：Cloudlet B对没有对中国线路进行优化，时常会绕远到日本，甚至绕道美国，故推荐选购有优化的Cloudlet C；很多人都说C方案是10Mbps，但其官网并未提及带宽，原来官网写着10Mbps，但很多用户使用说达不到（应该是OpenVZ超额分配导致），所以现在没有写带宽了；B方案，在闲时还是比较好的，可一到高峰期便会绕道了；而且Cloudlet B是共享最大100Mbps上行带宽，理所应当慢。『*★★★★*』
+
+7. [`莲花VPS · LotuServer`](http://www.lotuserver.com/)  http://www.lotuserver.com/  
+
+   机房：香港沙田机房、美国洛杉矶CS机房和ENZU机房、凤凰城IOF机房  
+   价格：HK **￥99+10**/Yr、**￥32**/month起  
+   配置：HK 年费99为1CPU、128MB Memory、1GB SSD、 500GB Bandwidth、1Mbps；HK 32月费为1CPU、512MB Memory、5GB SSD、750GB Bandwidth 
+
+   评价：年费方案的硬盘容量十分小，只有1GB，顶多用来开Shadowsocks（带宽不如`枫叶主机`专门的SS套餐），架网站就不用想了，只能选择月费方案；另外官方网站说支持D(DOS)防御；同时比较适合学生群体学习使用。『*★★★*』
 
 
 ### 最实惠
 
 　　最实惠莫过于免费了，不过不是无限期无限量的免费，而是对新用户而言的，毕竟世界上没有免费的午餐，当然如果真心想吃也是可以在舔到的。例如[Amazon AWS](https://aws.amazon.com)的EC2，可**免费使用一年**，不过每月只有15GB流量；google的[GCE](https://cloud.google.com)和[DigitalOcean](https://www.digitalocean.com/?refcode=4daef23f81a9)都可免费使用两个月；类似DigitalOcean赠送**$10**（可用两个月），[Vultr](http://www.vultr.com/?ref=6983220-3B)注册新用户时会有不定额度的美金余额存储于你的账户，这两家为了防止恶意注册，封号很严，所以不要使用重复信息进行多次注册。
 
-1.  [`Vultr`](http://www.vultr.com/?ref=6983220-3B)  新用户使用优惠码注册可获得一定的金额（2016年夏送**20美金**，验证&follow&发布Twitter又奖励3美元），这家的VPS最便宜为**$5**/month，价格和DigitalOcean一样，不过Vultr有日本的机房，速度比DO洛杉矶机房快很多，且流量达1T；『*速度稳定  甚至超过Linode  推荐给资金不足的朋友 优惠特别多  2016夏新用户只需充**10美元**即可用半年*』；
+1.  [`Vultr`](http://www.vultr.com/?ref=6983220-3B)  
 
-2.  [`搬瓦工 · BandwagonHost`](https://bandwagonhost.com/)  搬瓦工本来是有很多极为便宜的VPS的（**3.99美元**/年），但是用的人多了，还怕抢不完ip么？现在最亲民的是**$19.9**/年（约**￥132**），而且搬瓦工提供ss安装；『*狠便宜的老牌  建议洛杉矶机房  4.66%优惠码：` IAMSMART50BAR1` *』
+    机房：新加坡、东京、美国、欧洲  
+    价格：**$5**/month（**￥33**）起  
+    配置：1CPU、768Memory、1000GB Bandwidth起  
+    测试IP：108.61.201.151（Tokyo）、45.32.100.168（SG）、104.156.230.107（硅谷）、108.61.219.200（LA）  
+    测试文件：http://hnd-jp-ping.vultr.com/vultr.com.100MB.bin（Tokyo）、http://sgp-ping.vultr.com/vultr.com.100MB.bin（SG）、 http://sjo-ca-us-ping.vultr.com/vultr.com.100MB.bin（硅谷）、	http://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin（LA）
+
+    评价：优惠狠多、技术狠强、机房狠多。优惠政策二选其一，新用户使用链接注册可获得一定的金额（当前**20美金**，验证&follow&发布Twitter又奖励**3美元**），新用户充多少送多少（最多送**$100**，且赠送的金额只能使用12个月），老用户充值八折优惠，而且最便宜的价格和DigitalOcean一样，不过Vultr有日本的机房，速度比DO洛杉矶机房快，且流量达1T；从最普及的技术角度来谈，和DO一起作为最智能的VPS平台，也意味着管理员参与服务器架构的程度度很低；机房遍布亚欧美，是分布最广泛的服务商。另外，Tokyo和新加坡的速度虽不算最快，但肯定足够稳定，甚至超越了Linode。『*推荐给资金不足的朋友  只需充**5美元**即可用半年★★★★☆*』
+
+2.  [`搬瓦工 · BandwagonHost`](https://bandwagonhost.com/)  搬瓦工本来是有很多极为便宜的VPS的（**3.99美元**/年），但是用的人多了，还怕抢不完ip么？现在最亲民的是**$19.9**/年（约**￥132**），而且搬瓦工提供ss安装；『*狠便宜的老牌  建议洛杉矶机房  4.66%优惠码：` IAMSMART50BAR1`*』
 
 3.  [`Kvmla`](http://www.vpser.net/go/kvmla1)  年费**99元**人民币，机房在美国，和DO差不多的ping值，适合挂Shadowsocks + FinalSpeed加速番墙 ，由于连接慢，不适合挂大型网站；『***￥99***』
 
 4.  [`RamNode`](https://clientarea.ramnode.com)  OpenVZ最廉价的主机年费为**$15**（约**￥100**），机房均在美国，推荐选购西雅图机房，网络速度同搬瓦工不相上下；『***￥100***』
 
 5.  [`HostUS`](https://my.hostus.us/cart.php?a=confproduct&i=6)  HK Singapore Sydney http://www.hostus.cn/go/hostus-hk-256s  
+
     价格：OpenVZ架构 最便宜**$25**/Yr（约**166元**）三地可选，USA Atlanta **18.95美元**/Yr（约**￥126**）  
     配置：1vCPU，256MB Memory，10GB SSD，500GB Bandwidth 起  
     测试IP：45.124.64.3（HK）、210.16.120.5（Singapore）、27.100.36.5（Sydney）、162.245.216.243（Atlanta）  
-    测试文件：http://hk-lg.hostus.us/100MB.test（HK）、http://sgp-lg.hostus.us/100MB.test（Singapore）、http://syd-lg.hostus.us/100MB.test（Sydney）、http://atl-lg.hostus.us/100MB.test（Atlanta）
+    测试文件：http://hk-lg.hostus.us/100MB.test（HK）、http://sgp-lg.hostus.us/100MB.test（Singapore）、http://syd-lg.hostus.us/100MB.test（Sydney）、http://atl-lg.hostus.us/100MB.test（Atlanta）  
 
-    评价：机房的连接速度不太稳定，时常会发生线路绕远的情况，但价格便宜足以吸引大量用户了；现在洛杉矶机房KVM VPS已开启CN2直连，而HK的CN2直连还会远么，那时HK的VPS肯定会被哄抢。『*★★★★*』
+    评价：机房的连接速度不太稳定，时常会发生线路绕远的情况，但价格便宜足以吸引大量用户了，而且还支持D(DOS)防御；现在洛杉矶机房KVM VPS已开启CN2直连，而HK的CN2直连还会远么，那时HK的VPS肯定会被哄抢，那时再加颗*☆*。『*★★★★*』
 
-6.  [`VirMach`](https://virmach.com/)  **$7.5**/Yr起步（约**￥50**），便宜是便宜，不过即使是最合适的机房地址，在例举出来的VPS中依然是最慢的，很适合在校生学习Linux；『***￥50***』
 
-7.  `HostUS`、`HostHatch`、`DigitalOcean`  均可进入『*最实惠*』之流，其中学生用户使用学校的Email可以在[Github Education](https://education.github.com/pack)上申请DigitalOcean的学生优惠金**$100**（+注册赠送的**10美元**最多可以连续使用22个月），另外，HostUS和HostHatch连接速度还根据用户使用的网络供应商而有所区别，如电信联通用户连接较好，而移动用户就不那么流畅了。
+
+6.  [`HostHatch`](https://hosthatch.com/)  https://hosthatch.com/  
+
+    机房：IBM旗下的Softlayer香港机房以及美国等地  
+    价格：OpenVZ架构**$30**/Yr起（约**200元**）或 **2.67美元**/month  起  
+    配置：1CPU、256MB Memory、30GB SSD，1TB Bandwidth起  
+    测试IP：119.81.130.170（HK）、107.181.166.4（LA）  
+    测试文件：http://speedtest.hkg02.softlayer.com/downloads/test100.zip（HK）、http://mirror.lax.hosthatch.com/100mb.bin（LA）
+
+    评价：支持D(DOS)防御，速度还是很不错的，相对HostUS，HostHatch还是更稳定、更快的。『*★★★★*』
+
+7.  [`VirMach`](https://virmach.com/)  **$7.5**/Yr起步（约**￥50**），便宜是便宜，不过即使是最合适的机房地址，在例举出来的VPS中依然是最慢的，很适合在校生学习Linux；『***￥50***』
+
+8.  `GigsGigsCloud`、`DigitalOcean`  均可进入『*最实惠*』之流，其中学生用户使用学校的Email可以在[Github Education](https://education.github.com/pack)上申请DigitalOcean的学生优惠金**$100**（+注册赠送的**10美元**最多可以连续使用22个月），另外，HostUS和HostHatch连接速度还根据用户使用的网络供应商而有所区别，如电信联通用户连接较好，而移动用户就不那么流畅了。
 
 
 > Vultr已成为Captain主力VPS，故也推荐大家使用，限时优惠链接：[http://www.vultr.com/?ref=6983220-3B](http://www.vultr.com/?ref=6983220-3B) ，赠送**20美元**，不过，注册时需要使用信用卡或者PayPal，如果使用Visa等信用卡需要支付**$5**进行手续验证，1个月后会退还，推荐使用PayPal需要充值**5美元**，存储在账号中，所以新用户最多可以有**28美金**存在于Vultr账号，由于Vultr支持月费的同时也支持按时计费，所以充值**30多元**足够使用半年的了。机房选择日本，再安装FinalSpeed，消耗两倍流量，但速度体验提升不少，可达到国内访问的速度效果。
@@ -126,6 +170,7 @@
 6.  搬瓦工 · BandwagonHost　4.66%优惠码：`IAMSMART50BAR1` 
 7.  Godaddy　35%优惠码：`CJCRMN35`
 8.  8云科技 八折优惠码：`VPSMM8`
+9.  枫叶VPS 9.5折优惠码：`10vps` 
 
 
 
