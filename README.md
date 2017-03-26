@@ -83,7 +83,7 @@
 
 ### 最实惠
 
-　　最实惠莫过于免费了，不过不是无限期无限量的免费，而是对新用户而言的，毕竟世界上没有免费的午餐，当然如果真心想吃也是可以在舔到的。例如[Amazon AWS](https://aws.amazon.com)的EC2，可**免费使用一年**，不过每月只有15GB流量；google的[GCE](https://cloud.google.com)和[DigitalOcean](https://www.digitalocean.com/?refcode=4daef23f81a9)都可免费使用两个月；类似DigitalOcean赠送**$10**（可用两个月），[Vultr](http://www.vultr.com/?ref=6983220-3B)注册新用户时会有不定额度的美金余额存储于你的账户，这两家为了防止恶意注册，封号很严，所以不要使用重复信息进行多次注册。
+　　最实惠莫过于免费了，不过不是无限期无限量的免费，而是对新用户而言的，毕竟世界上没有免费的午餐，当然如果真心想吃也是可以在舔到的。例如[Amazon AWS](https://aws.amazon.com)的EC2，可**免费使用一年**，不过每月只有15GB流量；google的[GCE](https://cloud.google.com)和[DigitalOcean](https://www.digitalocean.com/?refcode=4daef23f81a9)都可免费使用两个月；类似DigitalOcean赠送 **$10**（可用两个月），[Vultr](http://www.vultr.com/?ref=6983220-3B)注册新用户时会有不定额度的美金余额存储于你的账户，这两家为了防止恶意注册，封号很严，所以不要使用重复信息进行多次注册。
 
 1.  [`Vultr`](http://www.vultr.com/?ref=6983220-3B)  
 
@@ -93,12 +93,12 @@
     测试IP：108.61.201.151（Tokyo）、45.32.100.168（SG）、104.156.230.107（硅谷）、108.61.219.200（LA）  
     测试文件：http://hnd-jp-ping.vultr.com/vultr.com.100MB.bin （Tokyo）、http://sgp-ping.vultr.com/vultr.com.100MB.bin （SG）、 http://sjo-ca-us-ping.vultr.com/vultr.com.100MB.bin （硅谷）、	http://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin （LA）
 
-    评价：优惠狠多、技术狠强、机房狠多。优惠政策二选其一，新用户使用链接注册可获得一定的金额（当前**20美金**，验证&follow&发布Twitter又奖励**3美元**），新用户[充多少送多少](https://www.vultr.com/match/)（最多送**$100**，且赠送的金额只能使用12个月），老用户充值八折优惠，而且最便宜的价格和DigitalOcean一样，不过Vultr有日本的机房，速度比DO洛杉矶机房快，且流量达1T；支持D(DOS)防御，从最普及的技术角度来谈，和DO一起作为最智能的VPS平台，也意味着管理员参与服务器架构的程度度很低；机房遍布亚欧美，是分布最广泛的服务商。另外，Tokyo和新加坡的速度虽不算最快，但肯定足够稳定，甚至超越了Linode。『*推荐给资金不足的朋友  只需充**5美元**即可用半年★★★★☆*』
+    评价：优惠狠多、技术狠强、机房狠多。优惠政策二选其一，新用户使用链接注册可获得一定的金额（当前**20美金**，验证&follow&发布Twitter又奖励**3美元**），新用户[充多少送多少](https://www.vultr.com/match/)（最多送 **$100**，且赠送的金额只能使用12个月），老用户充值八折优惠，而且最便宜的价格和DigitalOcean一样，不过Vultr有日本的机房，速度比DO洛杉矶机房快，且流量达1T；支持D(DOS)防御，从最普及的技术角度来谈，和DO一起作为最智能的VPS平台，也意味着管理员参与服务器架构的程度度很低；机房遍布亚欧美，是分布最广泛的服务商。另外，Tokyo和新加坡的速度虽不算最快，但肯定足够稳定，甚至超越了Linode。『*推荐给资金不足的朋友  只需充**5美元**即可用半年★★★★☆*』
 
 2. [`搬瓦工 · BandwagonHost`](https://bandwagonhost.com/)
 
       机房：洛杉矶、凤凰城、佛罗里达、佛蒙特、荷兰  
-      价格：搬瓦工本来是有很多极为便宜的VPS的（**3.99美元**/年），但是用的人多了，还怕抢不完ip么？现在最亲民的是**$19.9**/年（约**￥132**）  
+      价格：搬瓦工本来是有很多极为便宜的VPS的（**3.99美元**/年），但是用的人多了，还怕抢不完ip么？现在最亲民的是 **$19.9**/年（约**￥132**）  
       配置：1CPU、256MB Memory、128MB vSWAP、500GB Bandwidth、10GB SSD、1GB Network、OpenVZ/KVM起步  
       测试IP：104.194.76.14（LA）、192.243.118.26（凤凰城）、184.105.138.67（佛蒙特）、23.252.104.22（佛罗里达）、45.62.122.106（荷兰）
 
@@ -106,23 +106,23 @@
 
 3. [`Kvmla`](http://www.vpser.net/go/kvmla1)  年费**99元**人民币，机房在美国，和DO差不多的ping值，适合挂Shadowsocks + FinalSpeed加速番墙 ，由于连接慢，不适合挂大型网站；『***￥99***』
 
-4. [`RamNode`](https://clientarea.ramnode.com)  OpenVZ最廉价的主机年费为**$15**（约**￥100**），机房均在美国，推荐选购西雅图机房，网络速度同搬瓦工不相上下；『***￥100***』
+4. [`RamNode`](https://clientarea.ramnode.com)  OpenVZ最廉价的主机年费为 **$15**（约**￥100**），机房均在美国，推荐选购西雅图机房，网络速度同搬瓦工不相上下；『***￥100***』
 
 5. [`HostUS`](http://www.hostus.cn/go/hostus-hk-256s)  HK Singapore Sydney http://www.hostus.cn/go/hostus-hk-256s  
 
-       价格：OpenVZ架构 最便宜**$25**/Yr（约**166元**）三地可选，USA Atlanta **18.95美元**/Yr（约**￥126**）  
-       配置：1vCPU，256MB Memory，10GB SSD，500GB Bandwidth 起  
-       测试IP：45.124.64.3（HK）、210.16.120.5（Singapore）、27.100.36.5（Sydney）、162.245.216.243（Atlanta）  
-       测试文件：http://hk-lg.hostus.us/100MB.test （HK）、http://sgp-lg.hostus.us/100MB.test （Singapore）、http://syd-lg.hostus.us/100MB.test （Sydney）、http://atl-lg.hostus.us/100MB.test （Atlanta）  
-      
-       评价：机房的连接速度不太稳定，时常会发生线路绕远的情况，但价格便宜足以吸引大量用户了，而且还支持D(DOS)防御；现在洛杉矶机房KVM VPS已开启CN2直连，而HK的CN2直连还会远么，那时HK的VPS肯定会被哄抢，那时再加颗*☆*。『*★★★★*』
+   价格：OpenVZ架构 最便宜 **$25**/Yr（约 **166元**）三地可选，USA Atlanta **18.95美元**/Yr（约**￥126**）  
+   配置：1vCPU，256MB Memory，10GB SSD，500GB Bandwidth 起  
+   测试IP：45.124.64.3（HK）、210.16.120.5（Singapore）、27.100.36.5（Sydney）、162.245.216.243（Atlanta）  
+   测试文件：http://hk-lg.hostus.us/100MB.test （HK）、http://sgp-lg.hostus.us/100MB.test （Singapore）、http://syd-lg.hostus.us/100MB.test （Sydney）、http://atl-lg.hostus.us/100MB.test （Atlanta）  
+
+   评价：机房的连接速度不太稳定，时常会发生线路绕远的情况，但价格便宜足以吸引大量用户了，而且还支持D(DOS)防御；现在洛杉矶机房KVM VPS已开启CN2直连，而HK的CN2直连还会远么，那时HK的VPS肯定会被哄抢，那时再加颗*☆*。『*★★★★*』
 
 
 
 6.  [`HostHatch`](https://hosthatch.com/)    
 
     机房：IBM旗下的Softlayer香港机房以及美国等地  
-    价格：OpenVZ架构**$30**/Yr起（约**200元**）或 **2.67美元**/month  起  
+    价格：OpenVZ架构 **$30**/Yr起（约**200元**）或 **2.67美元**/month  起  
     配置：1CPU、256MB Memory、30GB SSD，1TB Bandwidth起  
     测试IP：119.81.130.170（HK）、107.181.166.4（LA）  
     测试文件：http://speedtest.hkg02.softlayer.com/downloads/test100.zip （HK）、http://mirror.lax.hosthatch.com/100mb.bin （LA）
@@ -131,14 +131,14 @@
 
 7. [`VirMach`](https://virmach.com/)  **$7.5**/Yr起步（约**￥50**），便宜是便宜，不过即使是最合适的机房地址，在例举出来的VPS中依然是最慢的，很适合在校生学习Linux；『***￥50***』
 
-8. `GigsGigsCloud`、`DigitalOcean`  均可进入『*最实惠*』之流，其中学生用户使用学校的Email可以在[Github Education](https://education.github.com/pack)上申请DigitalOcean的学生优惠金**$100**（+注册赠送的**10美元**最多可以连续使用22个月），另外，HostUS和HostHatch连接速度还根据用户使用的网络供应商而有所区别，如电信联通用户连接较好，而移动用户就不那么流畅了。
+8. `GigsGigsCloud`、`DigitalOcean`  均可进入『*最实惠*』之流，其中学生用户使用学校的Email可以在[Github Education](https://education.github.com/pack)上申请DigitalOcean的学生优惠金 **$100**（+注册赠送的**10美元**最多可以连续使用22个月），另外，HostUS和HostHatch连接速度还根据用户使用的网络供应商而有所区别，如电信联通用户连接较好，而移动用户就不那么流畅了。
 
 
-> Vultr已成为Captain主力VPS，故也推荐大家使用，限时优惠链接：[http://www.vultr.com/?ref=6983220-3B](http://www.vultr.com/?ref=6983220-3B) ，赠送**20美元**，不过，注册时需要使用信用卡或者PayPal，如果使用Visa等信用卡需要支付**$5**进行手续验证，1个月后会退还，推荐使用PayPal需要充值**5美元**，存储在账号中，所以新用户最多可以有**28美金**存在于Vultr账号，由于Vultr支持月费的同时也支持按时计费，所以充值**30多元**足够使用半年的了。机房选择日本，再安装FinalSpeed，消耗两倍流量，但速度体验提升不少，可达到国内访问的速度效果。
+> Vultr已成为Captain主力VPS，故也推荐大家使用，限时优惠链接：[http://www.vultr.com/?ref=6983220-3B](http://www.vultr.com/?ref=6983220-3B) ，赠送**20美元**，不过，注册时需要使用信用卡或者PayPal，如果使用Visa等信用卡需要支付 **$5**进行手续验证，1个月后会退还，推荐使用PayPal需要充值 **5美元**，存储在账号中，所以新用户最多可以有**28美金**存在于Vultr账号，由于Vultr支持月费的同时也支持按时计费，所以充值**30多元**足够使用半年的了。机房选择日本，再安装FinalSpeed，消耗两倍流量，但速度体验提升不少，可达到国内访问的速度效果。
 
 ### 最老牌
 
-1.  [`Linode`](https://www.linode.com/?r=de15b88a486da4c4804c5f935eab2cd5b9fdb56f)  国际老牌VPS供应商，以VPS界高富帅闻名，最便宜的是**$10**/month(约**￥66**)，中国用户推荐东京机房，其性能优异，Gpbs级别的大水管，网速快，不过东京机房已经长期售罄了，可以考虑新加坡机房；『*对于搭建VPN销售给他人使用的情况，可以考虑入手Linode东京机房，需要守株待兔*』
+1.  [`Linode`](https://www.linode.com/?r=de15b88a486da4c4804c5f935eab2cd5b9fdb56f)  国际老牌VPS供应商，以VPS界高富帅闻名，最便宜的是 **$10**/month(约**￥66**)，中国用户推荐东京机房，其性能优异，Gpbs级别的大水管，网速快，不过东京机房已经长期售罄了，可以考虑新加坡机房；『*对于搭建VPN销售给他人使用的情况，可以考虑入手Linode东京机房，需要守株待兔*』
 
 2.  [`棉花糖 · Sugarhosts`](http://www.sugarhosts.com/)  最低**5.95美元**/month（约39元人民币）  500GB流量  有香港机房硬盘有两种支持方式，SSD和机械；
 
@@ -183,11 +183,11 @@
 
 ##  支付方式
 
-　　国内外的VPS服务商都提供了**`信用卡`**和**`借记卡`**支付方式，甚至有的要求在注册时提供信用卡卡号和卡背面后三位的CVV码，而也有些要求在注册时最少充值**$5**，也有的是在购买VPS时才允许注册用户信息。国内的银联信用卡、借记卡不一定符合所有国外VPS厂商的要求，可能只限制使用VISA、MasterCard，例如Amazon Shop便是不允许使用银联信用卡，海淘用户一般是使用Visa信用卡。如果对此行为反感的鞋子们请绕道免费VPS，当然，免费VPS也有要求提供信用卡或借记卡信息，如AWS EC2、GCE均需要录入银联借记卡或者VISA、MasterCard的信息。
+　　国内外的VPS服务商都提供了 **`信用卡`**和**`借记卡`**支付方式，甚至有的要求在注册时提供信用卡卡号和卡背面后三位的CVV码，而也有些要求在注册时最少充值 **$5**，也有的是在购买VPS时才允许注册用户信息。国内的银联信用卡、借记卡不一定符合所有国外VPS厂商的要求，可能只限制使用VISA、MasterCard，例如Amazon Shop便是不允许使用银联信用卡，海淘用户一般是使用Visa信用卡。如果对此行为反感的鞋子们请绕道免费VPS，当然，免费VPS也有要求提供信用卡或借记卡信息，如AWS EC2、GCE均需要录入银联借记卡或者VISA、MasterCard的信息。
 
-　　除信用卡、借记卡支付外，绝大多数都会提供**`PayPal`**支付，在PayPal官网注册信息并绑定信用卡或者借记卡便可以消费了，PayPal用途挺广泛的，绝对不会少于支付宝，所以在支付宝不能使用的情况下推荐优先使用PayPal，例如Vultr。
+　　除信用卡、借记卡支付外，绝大多数都会提供 **`PayPal`**支付，在PayPal官网注册信息并绑定信用卡或者借记卡便可以消费了，PayPal用途挺广泛的，绝对不会少于支付宝，所以在支付宝不能使用的情况下推荐优先使用PayPal，例如Vultr。
 
-　　有些VPS厂商专门考虑中国用户的需求，提供了**`支付宝`**支付方式，例如搬瓦工、HostUS、Host1Plus、Sugarhosts、Kvmla、Godaddy。
+　　有些VPS厂商专门考虑中国用户的需求，提供了 **`支付宝`**支付方式，例如搬瓦工、HostUS、Host1Plus、Sugarhosts、Kvmla、Godaddy。
 
 
 
