@@ -95,7 +95,7 @@
 
     评价：优惠狠多、技术狠强、机房狠多。优惠政策二选其一，新用户使用链接注册可获得一定的金额（当前**20美金**，验证&follow&发布Twitter又奖励**3美元**），新用户[充多少送多少](https://www.vultr.com/match/)（最多送**$100**，且赠送的金额只能使用12个月），老用户充值八折优惠，而且最便宜的价格和DigitalOcean一样，不过Vultr有日本的机房，速度比DO洛杉矶机房快，且流量达1T；支持D(DOS)防御，从最普及的技术角度来谈，和DO一起作为最智能的VPS平台，也意味着管理员参与服务器架构的程度度很低；机房遍布亚欧美，是分布最广泛的服务商。另外，Tokyo和新加坡的速度虽不算最快，但肯定足够稳定，甚至超越了Linode。『*推荐给资金不足的朋友  只需充**5美元**即可用半年★★★★☆*』
 
-2.  [`搬瓦工 · BandwagonHost`](https://bandwagonhost.com/)
+2. [`搬瓦工 · BandwagonHost`](https://bandwagonhost.com/)
 
       机房：洛杉矶、凤凰城、佛罗里达、佛蒙特、荷兰  
       价格：搬瓦工本来是有很多极为便宜的VPS的（**3.99美元**/年），但是用的人多了，还怕抢不完ip么？现在最亲民的是**$19.9**/年（约**￥132**）  
@@ -104,17 +104,17 @@
 
       评价：全球最为人知的廉价VPS供应商，搬瓦工提供ss自动安装功能；狠便宜的老牌  建议洛杉矶机房  4.66%优惠码：` IAMSMART50BAR1`『*★★★★*』
 
-3.  [`Kvmla`](http://www.vpser.net/go/kvmla1)  年费**99元**人民币，机房在美国，和DO差不多的ping值，适合挂Shadowsocks + FinalSpeed加速番墙 ，由于连接慢，不适合挂大型网站；『***￥99***』
+3. [`Kvmla`](http://www.vpser.net/go/kvmla1)  年费**99元**人民币，机房在美国，和DO差不多的ping值，适合挂Shadowsocks + FinalSpeed加速番墙 ，由于连接慢，不适合挂大型网站；『***￥99***』
 
-4.  [`RamNode`](https://clientarea.ramnode.com)  OpenVZ最廉价的主机年费为**$15**（约**￥100**），机房均在美国，推荐选购西雅图机房，网络速度同搬瓦工不相上下；『***￥100***』
+4. [`RamNode`](https://clientarea.ramnode.com)  OpenVZ最廉价的主机年费为**$15**（约**￥100**），机房均在美国，推荐选购西雅图机房，网络速度同搬瓦工不相上下；『***￥100***』
 
-5.  [`HostUS`](http://www.hostus.cn/go/hostus-hk-256s)  HK Singapore Sydney http://www.hostus.cn/go/hostus-hk-256s  
+5. [`HostUS`](http://www.hostus.cn/go/hostus-hk-256s)  HK Singapore Sydney http://www.hostus.cn/go/hostus-hk-256s  
 
        价格：OpenVZ架构 最便宜**$25**/Yr（约**166元**）三地可选，USA Atlanta **18.95美元**/Yr（约**￥126**）  
        配置：1vCPU，256MB Memory，10GB SSD，500GB Bandwidth 起  
        测试IP：45.124.64.3（HK）、210.16.120.5（Singapore）、27.100.36.5（Sydney）、162.245.216.243（Atlanta）  
        测试文件：http://hk-lg.hostus.us/100MB.test （HK）、http://sgp-lg.hostus.us/100MB.test （Singapore）、http://syd-lg.hostus.us/100MB.test （Sydney）、http://atl-lg.hostus.us/100MB.test （Atlanta）  
-
+      
        评价：机房的连接速度不太稳定，时常会发生线路绕远的情况，但价格便宜足以吸引大量用户了，而且还支持D(DOS)防御；现在洛杉矶机房KVM VPS已开启CN2直连，而HK的CN2直连还会远么，那时HK的VPS肯定会被哄抢，那时再加颗*☆*。『*★★★★*』
 
 
@@ -129,9 +129,9 @@
 
     评价：支持D(DOS)防御，速度还是很不错的，相对HostUS，HostHatch还是更稳定、更快的。『*★★★★*』
 
-7.  [`VirMach`](https://virmach.com/)  **$7.5**/Yr起步（约**￥50**），便宜是便宜，不过即使是最合适的机房地址，在例举出来的VPS中依然是最慢的，很适合在校生学习Linux；『***￥50***』
+7. [`VirMach`](https://virmach.com/)  **$7.5**/Yr起步（约**￥50**），便宜是便宜，不过即使是最合适的机房地址，在例举出来的VPS中依然是最慢的，很适合在校生学习Linux；『***￥50***』
 
-8.  `GigsGigsCloud`、`DigitalOcean`  均可进入『*最实惠*』之流，其中学生用户使用学校的Email可以在[Github Education](https://education.github.com/pack)上申请DigitalOcean的学生优惠金**$100**（+注册赠送的**10美元**最多可以连续使用22个月），另外，HostUS和HostHatch连接速度还根据用户使用的网络供应商而有所区别，如电信联通用户连接较好，而移动用户就不那么流畅了。
+8. `GigsGigsCloud`、`DigitalOcean`  均可进入『*最实惠*』之流，其中学生用户使用学校的Email可以在[Github Education](https://education.github.com/pack)上申请DigitalOcean的学生优惠金**$100**（+注册赠送的**10美元**最多可以连续使用22个月），另外，HostUS和HostHatch连接速度还根据用户使用的网络供应商而有所区别，如电信联通用户连接较好，而移动用户就不那么流畅了。
 
 
 > Vultr已成为Captain主力VPS，故也推荐大家使用，限时优惠链接：[http://www.vultr.com/?ref=6983220-3B](http://www.vultr.com/?ref=6983220-3B) ，赠送**20美元**，不过，注册时需要使用信用卡或者PayPal，如果使用Visa等信用卡需要支付**$5**进行手续验证，1个月后会退还，推荐使用PayPal需要充值**5美元**，存储在账号中，所以新用户最多可以有**28美金**存在于Vultr账号，由于Vultr支持月费的同时也支持按时计费，所以充值**30多元**足够使用半年的了。机房选择日本，再安装FinalSpeed，消耗两倍流量，但速度体验提升不少，可达到国内访问的速度效果。
@@ -188,7 +188,6 @@
 　　除信用卡、借记卡支付外，绝大多数都会提供**`PayPal`**支付，在PayPal官网注册信息并绑定信用卡或者借记卡便可以消费了，PayPal用途挺广泛的，绝对不会少于支付宝，所以在支付宝不能使用的情况下推荐优先使用PayPal，例如Vultr。
 
 　　有些VPS厂商专门考虑中国用户的需求，提供了**`支付宝`**支付方式，例如搬瓦工、HostUS、Host1Plus、Sugarhosts、Kvmla、Godaddy。
-
 
 
 
