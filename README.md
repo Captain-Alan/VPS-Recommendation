@@ -89,13 +89,20 @@
 
     机房：新加坡、东京、美国、欧洲  
     价格：**$5**/month（**￥33**）起  
-    配置：1CPU、768Memory、1000GB Bandwidth起  
+    配置：1CPU、768MB Memory、1000GB Bandwidth起  
     测试IP：108.61.201.151（Tokyo）、45.32.100.168（SG）、104.156.230.107（硅谷）、108.61.219.200（LA）  
     测试文件：http://hnd-jp-ping.vultr.com/vultr.com.100MB.bin （Tokyo）、http://sgp-ping.vultr.com/vultr.com.100MB.bin （SG）、 http://sjo-ca-us-ping.vultr.com/vultr.com.100MB.bin （硅谷）、	http://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin （LA）
 
     评价：优惠狠多、技术狠强、机房狠多。优惠政策二选其一，新用户使用链接注册可获得一定的金额（当前**20美金**，验证&follow&发布Twitter又奖励**3美元**），新用户[充多少送多少](https://www.vultr.com/match/)（最多送**$100**，且赠送的金额只能使用12个月），老用户充值八折优惠，而且最便宜的价格和DigitalOcean一样，不过Vultr有日本的机房，速度比DO洛杉矶机房快，且流量达1T；支持D(DOS)防御，从最普及的技术角度来谈，和DO一起作为最智能的VPS平台，也意味着管理员参与服务器架构的程度度很低；机房遍布亚欧美，是分布最广泛的服务商。另外，Tokyo和新加坡的速度虽不算最快，但肯定足够稳定，甚至超越了Linode。『*推荐给资金不足的朋友  只需充**5美元**即可用半年★★★★☆*』
 
-2.  [`搬瓦工 · BandwagonHost`](https://bandwagonhost.com/)  搬瓦工本来是有很多极为便宜的VPS的（**3.99美元**/年），但是用的人多了，还怕抢不完ip么？现在最亲民的是**$19.9**/年（约**￥132**），而且搬瓦工提供ss安装；『*狠便宜的老牌  建议洛杉矶机房  4.66%优惠码：` IAMSMART50BAR1`*』
+2.  [`搬瓦工 · BandwagonHost`](https://bandwagonhost.com/)
+
+      机房：洛杉矶、凤凰城、佛罗里达、佛蒙特、荷兰  
+      价格：搬瓦工本来是有很多极为便宜的VPS的（**3.99美元**/年），但是用的人多了，还怕抢不完ip么？现在最亲民的是**$19.9**/年（约**￥132**）  
+      配置：1CPU、256MB Memory、128MB vSWAP、500GB Bandwidth、10GB SSD、1GB Network、OpenVZ/KVM起步  
+      测试IP：104.194.76.14（LA）、192.243.118.26（凤凰城）、184.105.138.67（佛蒙特）、23.252.104.22（佛罗里达）、45.62.122.106（荷兰）
+
+      评价：全球最为人知的廉价VPS供应商，搬瓦工提供ss自动安装功能；狠便宜的老牌  建议洛杉矶机房  4.66%优惠码：` IAMSMART50BAR1`『*★★★★*』
 
 3.  [`Kvmla`](http://www.vpser.net/go/kvmla1)  年费**99元**人民币，机房在美国，和DO差不多的ping值，适合挂Shadowsocks + FinalSpeed加速番墙 ，由于连接慢，不适合挂大型网站；『***￥99***』
 
@@ -103,12 +110,12 @@
 
 5.  [`HostUS`](http://www.hostus.cn/go/hostus-hk-256s)  HK Singapore Sydney http://www.hostus.cn/go/hostus-hk-256s  
 
-    价格：OpenVZ架构 最便宜**$25**/Yr（约**166元**）三地可选，USA Atlanta **18.95美元**/Yr（约**￥126**）  
-    配置：1vCPU，256MB Memory，10GB SSD，500GB Bandwidth 起  
-    测试IP：45.124.64.3（HK）、210.16.120.5（Singapore）、27.100.36.5（Sydney）、162.245.216.243（Atlanta）  
-    测试文件：http://hk-lg.hostus.us/100MB.test （HK）、http://sgp-lg.hostus.us/100MB.test （Singapore）、http://syd-lg.hostus.us/100MB.test （Sydney）、http://atl-lg.hostus.us/100MB.test （Atlanta）  
+       价格：OpenVZ架构 最便宜**$25**/Yr（约**166元**）三地可选，USA Atlanta **18.95美元**/Yr（约**￥126**）  
+       配置：1vCPU，256MB Memory，10GB SSD，500GB Bandwidth 起  
+       测试IP：45.124.64.3（HK）、210.16.120.5（Singapore）、27.100.36.5（Sydney）、162.245.216.243（Atlanta）  
+       测试文件：http://hk-lg.hostus.us/100MB.test （HK）、http://sgp-lg.hostus.us/100MB.test （Singapore）、http://syd-lg.hostus.us/100MB.test （Sydney）、http://atl-lg.hostus.us/100MB.test （Atlanta）  
 
-    评价：机房的连接速度不太稳定，时常会发生线路绕远的情况，但价格便宜足以吸引大量用户了，而且还支持D(DOS)防御；现在洛杉矶机房KVM VPS已开启CN2直连，而HK的CN2直连还会远么，那时HK的VPS肯定会被哄抢，那时再加颗*☆*。『*★★★★*』
+       评价：机房的连接速度不太稳定，时常会发生线路绕远的情况，但价格便宜足以吸引大量用户了，而且还支持D(DOS)防御；现在洛杉矶机房KVM VPS已开启CN2直连，而HK的CN2直连还会远么，那时HK的VPS肯定会被哄抢，那时再加颗*☆*。『*★★★★*』
 
 
 
