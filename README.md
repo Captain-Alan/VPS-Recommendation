@@ -6,7 +6,7 @@
 
 ### 最壕最好用最稳定
 
-　　 ***<u>最壕最好用最稳定</u>***的VPS供应商：[www.rackspace.com](http://www.rackspace.com)，`rackspace`是面向企业的云计算提供商。
+　　 ***<u>最壕最好用最稳定</u>*** 的VPS供应商：[www.rackspace.com](http://www.rackspace.com)，`rackspace`是面向企业的云计算提供商。
 
 价格：  
 管理费：**$50**/month  
