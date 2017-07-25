@@ -19,17 +19,7 @@
 
 　　除最壕VPS外，再从最速度方面列举出合适的VPS供应商，说到speed，对于中国用户肯定就属香港台湾日本三地最快了，当然，大体速度排序依然是上面所说的，为了给下面的VPS介绍留些余地，同时又满足性价比，所以这一小节只列举HK最优秀的VPS，并给出各自最便宜价格。
 
-1. [`星光互联 · STARRY`](https://www.starrydns.com)  https://www.starrydns.com  
-
-   机房：香港沙田和Mega-I数据中心、美国、加拿大、日本、韩国  
-   价格：OpenVZ **￥60**/month 起 ，KVM**￥75**/month 起  
-   配置：1CPU、512MB Memory、20GB Storage、1 IP、10Mbps、200/180GB Bandwidth起  
-   测试IP：118.193.144.3（沙田）、210.92.18.1（Korea）、103.204.175.10（JP）  
-   测试文件：http://jp2.lg.starrydns.com/100MB.test （103.204.175.10 JP），沙田和韩国无测试文件
-
-   评价：带宽足，香港机房最高的带宽就是10Mbps；沙田CN2直连大陆电信，STARRY专门对大陆线路进行优化，在亚洲区域内路由，不会转到欧美；华南地区访问VPS类似于省内的访问速度；最低价OpenVZ常常Out of Stock，能抢到则是极好。『*推荐电信游戏玩家购买，不支持D(DOS)防御，不推荐企业使用。综合评级：★★★★★*』
-
-2. [`UFOVPS`](https://www.ufovps.com)  https://www.ufovps.com  
+1. [`UFOVPS`](https://www.ufovps.com)  https://www.ufovps.com  
 
    机房：香港沙田电信BGP机房，CN2双向直连线路；美国KT机房(Krypt)，接驳CN2中国优化线路（自称中美最快线路之一）  
 
@@ -39,7 +29,7 @@
 
    评价：对于华南地区的小伙伴们来说，体验还是不错滴，两个机房都采取线路优化，尤其香港CN2线路还是值得信赖的；不过带宽只有3Mbps&300GB，同样不支持D(DOS)防御。『*★★★★*』
 
-3. [`8云`](http://www.8xen.com/)  http://www.8xen.com/  
+2. [`8云`](http://www.8xen.com/)  http://www.8xen.com/  
 
    机房：香港新世界CN2节点、美国加州CN2节点  
    价格：**￥29**/month起步，XEN架构  
@@ -48,9 +38,9 @@
 
    评价：最便宜的香港CN2节点之一；带宽太小，不适合下载较大文件；建议南方的孩子或者对流量需求不多的孩子选择1Mbps，带宽对你们的网站访问体验影响较小；而北方的而且没有太多流量要求的鞋子们选择2Mbps。『*★★★*』
 
-4. [`阿里云香港B区`](https://ecs-buy.aliyun.com/)  https://ecs-buy.aliyun.com/ 仿AWS的弹性云服务器 **￥1**/GB  **￥0.30**/小时  据说是『*流量计费*』的最好选择，反正我不用～『*★★★*』
+3. [`阿里云香港B区`](https://ecs-buy.aliyun.com/)  https://ecs-buy.aliyun.com/ 仿AWS的弹性云服务器 **￥1**/GB  **￥0.30**/小时  据说是『*流量计费*』的最好选择，反正我不用～『*★★★*』
 
-5. [`枫叶主机`]( https://www.fyzhuji.com)  https://www.fyzhuji.com  
+4. [`枫叶主机`]( https://www.fyzhuji.com)  https://www.fyzhuji.com  
 
    机房：香港沙田和新立讯机房，以及美国LA和俄罗斯新西伯利亚机房  
    价格：HK KVM架构 **￥60/**month起，LA**￥25**或**45**/month起，俄罗斯**￥35**/month起  
@@ -61,7 +51,7 @@
 
    评价：新厂家，不支持D(DOS)防御；CN2线路为5Mbps，不过最值得推荐的不是这家的VPS，而是虚拟主机和Shadowsocks，虚拟主机挂网站10G流量**￥60**/Yr起，也提供国内外中转的Shadowsocks **￥40**/Yr起，全国范围的速度都是极快的。『*挂博客首选，对中国线路优化极好，甚至有俄罗斯主机  ★★★★☆*』
 
-6. [`GigsGigsCloud`](http://www.gigsgigscloud.com/)  http://www.gigsgigscloud.com/  
+5. [`GigsGigsCloud`](http://www.gigsgigscloud.com/)  http://www.gigsgigscloud.com/  
 
    机房：HGC香港和记电讯机房、马来西亚AIMS机房  
    价格：OpenVZ架构为主 **$18**/Yr（**￥120**）起，但相比该方案，还是建议使用**6美元**/month（**￥40**）的方案  
@@ -72,7 +62,7 @@
 
    评价：Cloudlet B对没有对中国线路进行优化，时常会绕远到日本，甚至绕道美国，故推荐选购有优化的Cloudlet C；很多人都说C方案是10Mbps，但其官网并未提及带宽，原来官网写着10Mbps，但很多用户使用说达不到（应该是OpenVZ超额分配导致），所以现在没有写带宽了；B方案，在闲时还是比较好的，可一到高峰期便会绕道了；而且Cloudlet B是共享最大100Mbps上行带宽，理所应当慢。『*★★★★*』
 
-7. [`莲花VPS · LotuServer`](http://www.lotuserver.com/)  http://www.lotuserver.com/  
+6. [`莲花VPS · LotuServer`](http://www.lotuserver.com/)  http://www.lotuserver.com/  
 
    机房：香港沙田机房、美国洛杉矶CS机房和ENZU机房、凤凰城IOF机房  
    价格：HK **￥99+10**/Yr、**￥32**/month起  
