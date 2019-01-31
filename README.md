@@ -23,8 +23,8 @@
 
 	最近发现了这个十分棒的供应商，由于香港的机房，被国内限速严重，台湾的机房更适合大陆环境，而且这家供应商的VPS起价还算实惠，另外，相比前几年，这个供应商的名声好太多了，考虑多方面原因，所以将之列为最速度榜首
 
-	价格：TW **$5.95**/month起
-	配置：1CPU TW 100GB Bandwidth 100Mbps，1GB RAM，50GB Storage
+	价格：TW **$5.95**/month起   
+	配置：1CPU TW 100GB Bandwidth 100Mbps，1GB RAM，50GB Storage   
 	测试IP：103.78.122.171（台北）、103.102.160.243（东京）
 
 	测试文件：http://lg.tw.psychz.net/200MB.test （台北）、http://lg.jp.psychz.net/200MB.test （东京）
