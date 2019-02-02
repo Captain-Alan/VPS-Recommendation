@@ -26,8 +26,9 @@
 	价格：TW **$5.95**/month起   
 	配置：1CPU TW 100GB Bandwidth 100Mbps，1GB RAM，50GB Storage   
 	测试IP：103.78.122.171（台北）、103.102.160.243（东京）
+	测试文件：http://lg.tw.psychz.net/200MB.test （台北）、http://lg.jp.psychz.net/200MB.test （东京）   
 
-	测试文件：http://lg.tw.psychz.net/200MB.test （台北）、http://lg.jp.psychz.net/200MB.test （东京）
+	评价：速度够，带宽足，支持D(DOS)防御，价格相对合理，更重要的是在香港机房沦陷的情况下，台湾的机房可以是最优选了。『*★★★★★*』   
 
 2. [`UFOVPS`](https://www.ufovps.com)  https://www.ufovps.com  
 
