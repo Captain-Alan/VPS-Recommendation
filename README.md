@@ -40,7 +40,7 @@
 
 3. [`阿里云香港B区`](https://ecs-buy.aliyun.com/)  https://ecs-buy.aliyun.com/ 仿AWS的弹性云服务器 **￥1**/GB  **￥0.30**/小时  据说是『*流量计费*』的最好选择，反正我不用～『*★★★*』
 
-4. [`枫叶网络`]( https://www.fyzhuji.com)  https://www.fenghost.io/aff.php?aff=11299  
+4. [`枫叶网络`](https://www.fenghost.io/aff.php?aff=11299)  [`https://www.fenghost.io/`](https://www.fenghost.io/aff.php?aff=11299)  
 
    机房：香港沙田和新立讯机房，以及美国LA和俄罗斯新西伯利亚机房  
    价格：HK KVM架构 **￥60/**month起，LA**￥25**或**45**/month起，俄罗斯**￥35**/month起  
