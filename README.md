@@ -73,9 +73,9 @@
 
 ### 最实惠
 
-　　最实惠莫过于免费了，不过不是无限期无限量的免费，而是对新用户而言的，毕竟世界上没有免费的午餐，当然如果真心想吃也是可以在舔到的。例如[Amazon AWS](https://aws.amazon.com)的EC2，可**免费使用一年**，不过每月只有15GB流量；google的[GCE](https://cloud.google.com)和[DigitalOcean](https://www.digitalocean.com/?refcode=4daef23f81a9)都可免费使用两个月；类似DigitalOcean赠送 **$10**（可用两个月），[Vultr](https://www.vultr.com/?ref=6983219)注册新用户时会有不定额度的美金余额存储于你的账户，这两家为了防止恶意注册，封号很严，所以不要使用重复信息进行多次注册。
+　　最实惠莫过于免费了，不过不是无限期无限量的免费，而是对新用户而言的，毕竟世界上没有免费的午餐，当然如果真心想吃也是可以在舔到的。例如[Amazon AWS](https://aws.amazon.com)的EC2，可**免费使用一年**，不过每月只有15GB流量；google的[GCE](https://cloud.google.com)和[DigitalOcean](https://www.digitalocean.com/?refcode=4daef23f81a9)都可免费使用两个月；类似DigitalOcean赠送 **$10**（可用两个月），[Vultr](https://www.vultr.com/?ref=8379600-6G)注册新用户时会有不定额度的美金余额存储于你的账户，这两家为了防止恶意注册，封号很严，所以不要使用重复信息进行多次注册。
 
-1.  [`Vultr`](https://www.vultr.com/?ref=6983219)  
+1.  [`Vultr`](https://www.vultr.com/?ref=8379600-6G)  
 
     机房：新加坡、东京、美国、欧洲  
     价格：**$5**/month（**￥33**）起  
@@ -124,7 +124,7 @@
 8. `GigsGigsCloud`、`DigitalOcean`  均可进入『*最实惠*』之流，其中学生用户使用学校的Email可以在[Github Education](https://education.github.com/pack)上申请DigitalOcean的学生优惠金 **$100**（+注册赠送的**10美元**最多可以连续使用22个月），另外，HostUS和HostHatch连接速度还根据用户使用的网络供应商而有所区别，如电信联通用户连接较好，而移动用户就不那么流畅了。
 
 
-> Vultr已成为Captain主力VPS，故也推荐大家使用，限时优惠链接：[https://www.vultr.com/?ref=6983219](https://www.vultr.com/?ref=6983219) ，赠送**20美元**，不过，注册时需要使用信用卡或者PayPal，如果使用Visa等信用卡需要支付 **$5**进行手续验证，1个月后会退还，推荐使用PayPal需要充值 **5美元**，存储在账号中，所以新用户最多可以有**28美金**存在于Vultr账号，由于Vultr支持月费的同时也支持按时计费，所以充值**30多元**足够使用半年的了。机房选择日本，再安装FinalSpeed，消耗两倍流量，但速度体验提升不少，可达到国内访问的速度效果。
+> Vultr已成为Captain主力VPS，故也推荐大家使用，限时优惠链接：[https://www.vultr.com/?ref=8379600-6G](https://www.vultr.com/?ref=8379600-6G) ，赠送**20美元**，不过，注册时需要使用信用卡或者PayPal，如果使用Visa等信用卡需要支付 **$5**进行手续验证，1个月后会退还，推荐使用PayPal需要充值 **5美元**，存储在账号中，所以新用户最多可以有**28美金**存在于Vultr账号，由于Vultr支持月费的同时也支持按时计费，所以充值**30多元**足够使用半年的了。机房选择日本，再安装FinalSpeed，消耗两倍流量，但速度体验提升不少，可达到国内访问的速度效果。
 
 ### 最老牌
 
@@ -149,7 +149,7 @@
 
 　　接下来，给大家列出各家VPS供应商的新用户注册优惠链接，直接通过官方链接的官网注册不会送金额：
 
-1.  [`Vultr`](https://www.vultr.com/?ref=6983219)  https://www.vultr.com/?ref=6983219  **$20**金额，需要用户PayPal充值**5美金**或者信用卡暂存**5美金**；https://www.vultr.com/match/ 新用户充多少送多少，最多送**100美元**，且赠送的金额使用期限为12个月；
+1.  [`Vultr`](https://www.vultr.com/?ref=8379600-6G)  https://www.vultr.com/?ref=8379600-6G  **$100**金额，需要用户PayPal充值**5美金**或者信用卡暂存**5美金**；
 
 2.  [`DigitalOcean`](https://www.digitalocean.com/?refcode=4daef23f81a9)  https://www.digitalocean.com/?refcode=4daef23f81a9  **$10**金额  Github学生验证**100美金**：https://education.github.com/pack  也就是说，**学生可以免费使用近两年**；
 
